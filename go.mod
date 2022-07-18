@@ -1,4 +1,4 @@
-module github.com/doggonit/wssw
+module github.com/dogggonit/wssw
 
 go 1.18
 
