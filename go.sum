@@ -1,0 +1,8 @@
+github.com/dogggonit/rxxr v0.0.0-20220711175056-79ffb3786873 h1:oBWzAGxo7omPslx2ufk5+JjX33966J3WM8eWDVLlS0w=
+github.com/dogggonit/rxxr v0.0.0-20220711175056-79ffb3786873/go.mod h1:fDEOFDX6hJ1v0vcfVJCquBntvMj3k8OkkboIMsS1PiE=
+github.com/dogggonit/rxxr v0.0.0-20220712031422-d13e9cf6715f h1:BrSKVNuPmaigGhkZgi6OnUclA+TRO/teoQSbN3NYkUg=
+github.com/dogggonit/rxxr v0.0.0-20220712031422-d13e9cf6715f/go.mod h1:fDEOFDX6hJ1v0vcfVJCquBntvMj3k8OkkboIMsS1PiE=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
